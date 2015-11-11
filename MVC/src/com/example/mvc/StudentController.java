@@ -21,14 +21,14 @@ public class StudentController {
     }
 
     public void setStudentRollNo(String rollNo){
-        model.setRollNo(rollNo);
+        model.setIDNo(rollNo);
     }
 
     public String getStudentRollNo(){
-        return model.getRollNo();
+        return model.getIDNo();
     }
 
     public void updateView(){
-        view.printStudentDetails(model.getName(), model.getRollNo());
+        view.printStudentDetails(model.getName(), model.getIDNo());
     }
 }

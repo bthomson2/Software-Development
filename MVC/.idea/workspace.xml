@@ -2,18 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6745182f-19ce-4025-8235-c94f8df8e3df" name="Default" comment="Add MVC Pattern Demo">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/mvc/MVCPatternDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/mvc/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/mvc/StudentController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/mvc/StudentView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bridge/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../Bridge/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CommandPattern/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../CommandPattern/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FacadePattern/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../FacadePattern/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Bridge/src/com/example/bridge/BlueCircle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bridge/out/production/Bridge/com/example/bridge/BridgePatternDemo.class" afterPath="$PROJECT_DIR$/../Bridge/out/production/Bridge/com/example/bridge/BridgePatternDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CommandPattern/out/production/CommandPattern/com/example/command/BuyStock.class" afterPath="$PROJECT_DIR$/../CommandPattern/out/production/CommandPattern/com/example/command/BuyStock.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChainOfResponsibilityPattern/out/production/ChainOfResponsibilityPattern/com/example/cor/ChainPatternDemo.class" afterPath="$PROJECT_DIR$/../ChainOfResponsibilityPattern/out/production/ChainOfResponsibilityPattern/com/example/cor/ChainPatternDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FacadePattern/out/production/FacadePattern/Circle.class" afterPath="$PROJECT_DIR$/../FacadePattern/out/production/FacadePattern/Circle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CommandPattern/out/production/CommandPattern/com/example/command/CommandPatternDemo.class" afterPath="$PROJECT_DIR$/../CommandPattern/out/production/CommandPattern/com/example/command/CommandPatternDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MVC/com/example/mvc/MVCPatternDemo.class" afterPath="$PROJECT_DIR$/out/production/MVC/com/example/mvc/MVCPatternDemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FacadePattern/out/production/FacadePattern/Rectangle.class" afterPath="$PROJECT_DIR$/../FacadePattern/out/production/FacadePattern/Rectangle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CommandPattern/out/production/CommandPattern/com/example/command/SellStock.class" afterPath="$PROJECT_DIR$/../CommandPattern/out/production/CommandPattern/com/example/command/SellStock.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FacadePattern/out/production/FacadePattern/Square.class" afterPath="$PROJECT_DIR$/../FacadePattern/out/production/FacadePattern/Square.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CommandPattern/out/production/CommandPattern/com/example/command/Stock.class" afterPath="$PROJECT_DIR$/../CommandPattern/out/production/CommandPattern/com/example/command/Stock.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MVC/com/example/mvc/Student.class" afterPath="$PROJECT_DIR$/out/production/MVC/com/example/mvc/Student.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MVC/com/example/mvc/StudentController.class" afterPath="$PROJECT_DIR$/out/production/MVC/com/example/mvc/StudentController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MVC/com/example/mvc/StudentView.class" afterPath="$PROJECT_DIR$/out/production/MVC/com/example/mvc/StudentView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bridge/src/com/example/bridge/BridgePatternDemo.java" afterPath="$PROJECT_DIR$/../Bridge/src/com/example/bridge/BridgePatternDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CommandPattern/src/com/example/command/BuyStock.java" afterPath="$PROJECT_DIR$/../CommandPattern/src/com/example/command/BuyStock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChainOfResponsibilityPattern/src/com/example/cor/ChainPatternDemo.java" afterPath="$PROJECT_DIR$/../ChainOfResponsibilityPattern/src/com/example/cor/ChainPatternDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FacadePattern/src/Circle.java" afterPath="$PROJECT_DIR$/../FacadePattern/src/Circle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CommandPattern/src/com/example/command/CommandPatternDemo.java" afterPath="$PROJECT_DIR$/../CommandPattern/src/com/example/command/CommandPatternDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/mvc/MVCPatternDemo.java" afterPath="$PROJECT_DIR$/src/com/example/mvc/MVCPatternDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FacadePattern/src/Rectangle.java" afterPath="$PROJECT_DIR$/../FacadePattern/src/Rectangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CommandPattern/src/com/example/command/SellStock.java" afterPath="$PROJECT_DIR$/../CommandPattern/src/com/example/command/SellStock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FacadePattern/src/Square.java" afterPath="$PROJECT_DIR$/../FacadePattern/src/Square.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CommandPattern/src/com/example/command/Stock.java" afterPath="$PROJECT_DIR$/../CommandPattern/src/com/example/command/Stock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/mvc/Student.java" afterPath="$PROJECT_DIR$/src/com/example/mvc/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/mvc/StudentController.java" afterPath="$PROJECT_DIR$/src/com/example/mvc/StudentController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/mvc/StudentView.java" afterPath="$PROJECT_DIR$/src/com/example/mvc/StudentView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bridge/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Bridge/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ChainOfResponsibilityPattern/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ChainOfResponsibilityPattern/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CommandPattern/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CommandPattern/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FacadePattern/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../FacadePattern/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SingletonClass/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SingletonClass/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MVC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,20 +56,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/mvc/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77813506">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding>
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/example/mvc/StudentView.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -70,18 +84,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-              <folding>
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,13 +93,13 @@
         <entry file="file://$PROJECT_DIR$/src/com/example/mvc/MVCPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/com.example.mvc" pinned="false" current-in-tab="false">
+      <file leaf-file-name="JAVA/com.example.mvc" pinned="false" current-in-tab="true">
         <entry file="uml://JAVA/com.example.mvc">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
@@ -104,17 +107,19 @@
               <OriginalElement>com.example.mvc</OriginalElement>
               <nodes>
                 <node x="0.0" y="0.0">com.example.mvc.StudentController</node>
-                <node x="0.0" y="468.0">com.example.mvc.StudentView</node>
-                <node x="0.0" y="279.0">com.example.mvc.MVCPatternDemo</node>
-                <node x="347.0" y="279.0">com.example.mvc.Student</node>
+                <node x="0.0" y="557.0">com.example.mvc.StudentView</node>
+                <node x="389.0" y="0.0">com.example.mvc.MVCPatternDemo</node>
+                <node x="0.0" y="368.0">com.example.mvc.Student</node>
               </nodes>
               <notes />
               <edges />
-              <settings layout="Hierarchic Group" zoom="1.0" x="129.0" y="220.0" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="1983.0" y="863.0" />
               <SelectedNodes>
                 <node>com.example.mvc.StudentController</node>
               </SelectedNodes>
               <Categories>
+                <Category>Fields</Category>
+                <Category>Inner Classes</Category>
                 <Category>Constructors</Category>
                 <Category>Properties</Category>
                 <Category>Methods</Category>
@@ -145,10 +150,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/example/mvc/Student.java" />
         <option value="$PROJECT_DIR$/src/com/example/mvc/StudentView.java" />
         <option value="$PROJECT_DIR$/src/com/example/mvc/StudentController.java" />
         <option value="$PROJECT_DIR$/src/com/example/mvc/MVCPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/example/mvc/Student.java" />
       </list>
     </option>
   </component>
@@ -188,6 +193,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -227,8 +234,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -530,12 +535,14 @@
       <option name="number" value="Default" />
       <updated>1447197712001</updated>
       <workItem from="1447197716259" duration="322000" />
-      <workItem from="1447198042829" duration="359000" />
+      <workItem from="1447198042829" duration="957000" />
+      <workItem from="1447208926590" duration="615000" />
+      <workItem from="1447209911608" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="681000" />
+    <option name="totallyTimeSpent" value="1909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3226" height="1754" extended-state="6" />
@@ -543,13 +550,11 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945207" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -558,14 +563,42 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39986283" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39986283" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32945207" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39986283" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -588,14 +621,72 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/mvc/StudentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/mvc/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/mvc/MVCPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.example.mvc">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.example.mvc</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.example.mvc.StudentController</node>
+            <node x="0.0" y="557.0">com.example.mvc.StudentView</node>
+            <node x="389.0" y="0.0">com.example.mvc.MVCPatternDemo</node>
+            <node x="0.0" y="368.0">com.example.mvc.Student</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1983.0" y="863.0" />
+          <SelectedNodes>
+            <node>com.example.mvc.StudentController</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/mvc/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -612,18 +703,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -642,23 +722,34 @@
           <OriginalElement>com.example.mvc</OriginalElement>
           <nodes>
             <node x="0.0" y="0.0">com.example.mvc.StudentController</node>
-            <node x="0.0" y="468.0">com.example.mvc.StudentView</node>
-            <node x="0.0" y="279.0">com.example.mvc.MVCPatternDemo</node>
-            <node x="347.0" y="279.0">com.example.mvc.Student</node>
+            <node x="0.0" y="557.0">com.example.mvc.StudentView</node>
+            <node x="389.0" y="0.0">com.example.mvc.MVCPatternDemo</node>
+            <node x="0.0" y="368.0">com.example.mvc.Student</node>
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="129.0" y="220.0" />
-          <SelectedNodes>
-            <node>com.example.mvc.StudentController</node>
-          </SelectedNodes>
+          <settings layout="Hierarchic Group" zoom="1.0" x="1056.0" y="421.0" />
+          <SelectedNodes />
           <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
             <Category>Constructors</Category>
             <Category>Properties</Category>
             <Category>Methods</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/mvc/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -674,18 +765,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -726,18 +806,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/mvc/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77813506">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/mvc/StudentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/mvc/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/mvc/MVCPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.example.mvc">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.example.mvc</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.example.mvc.StudentController</node>
+            <node x="0.0" y="557.0">com.example.mvc.StudentView</node>
+            <node x="389.0" y="0.0">com.example.mvc.MVCPatternDemo</node>
+            <node x="0.0" y="368.0">com.example.mvc.Student</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1983.0" y="863.0" />
+          <SelectedNodes>
+            <node>com.example.mvc.StudentController</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>

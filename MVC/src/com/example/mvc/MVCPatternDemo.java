@@ -17,15 +17,15 @@ public class MVCPatternDemo {
         controller.updateView();
 
         //update model data
-        controller.setStudentName("John");
+        controller.setStudentName("Eric");
 
         controller.updateView();
     }
 
     private static Student retriveStudentFromDatabase(){
         Student student = new Student();
-        student.setName("Robert");
-        student.setRollNo("10");
+        student.setName("Frederico");
+        student.setIDNo("663323002");
         return student;
     }
 }

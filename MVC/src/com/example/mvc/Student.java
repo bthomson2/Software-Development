@@ -4,22 +4,22 @@ package com.example.mvc;
  * Created by Brenda on 11/10/2015.
  */
 public class Student {
-    private String rollNo;
-    private String name;
+    private String IDNo;
+    private String fullName;
 
-    public String getRollNo() {
-        return rollNo;
+    public String getIDNo() {
+        return IDNo;
     }
 
-    public void setRollNo(String rollNo) {
-        this.rollNo = rollNo;
+    public void setIDNo(String IDNo) {
+        this.IDNo = IDNo;
     }
 
     public String getName() {
-        return name;
+        return fullName;
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.fullName = name;
     }
 }
